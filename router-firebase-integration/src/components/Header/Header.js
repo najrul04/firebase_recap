@@ -15,7 +15,7 @@ const Header = () => {
             {
                 user?.uid 
                 ?
-                <button onClick={handleSignOut}>Sign Out</button>
+                <button onClick={handleSignOut}>Signing Out</button>
                 :
                 <Link to = '/login'>Login</Link> 
 
