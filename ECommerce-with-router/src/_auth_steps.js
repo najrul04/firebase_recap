@@ -9,6 +9,8 @@
 7. NPM Install
         npm install --save react-firebase-hooks
 8. userCreateUserWithEmailPassword from react-firebase-hooks
+9. If user is created then redirect them to expected page
+10. Use useSignInWithEmailAndPassword for sign in
 */
 
 /* ---------------------------------------------------------------- */
